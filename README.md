@@ -31,7 +31,7 @@ Will train until val2_error hasn't improved in 15 rounds.
 [10]	val1-error:0.246766	val2-error:0.262687 
 [11]	val1-error:0.240796	val2-error:0.283582 
 [12]	val1-error:0.242786	val2-error:0.280597 
-[13]	val1-error:0.244776	val2-error:0.280597 
+[13]	val1-error:0.244776	val2-error:0.280597
 [14]	val1-error:0.231841	val2-error:0.283582 
 [15]	val1-error:0.235821	val2-error:0.277612 
 [16]	val1-error:0.232836	val2-error:0.289552 
