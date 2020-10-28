@@ -13,13 +13,11 @@ Classifying the NBA players career length based on different features available.
 
 
 ### Result 
-
+<img src ="https://github.com/Gaurav-sketch/XGBoost_Binary_Classification/blob/main/Result.JPG" />
 
 # Confusion Matrix
-  test_target
-      0   1
-  0  75  32
-  1  54 174
+ 
+<img src ="https://github.com/Gaurav-sketch/XGBoost_Binary_Classification/blob/main/Confusion_Matrix.JPG" />
 
 # Final Accuracy 
 [1] 0.7432836
